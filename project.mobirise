@@ -1291,6 +1291,9 @@
             ".mbr-section-subtitle": {
               "color": "#767676",
               "text-align": "right"
+            },
+            ".mbr-section-subtitle DIV": {
+              "text-align": "right"
             }
           },
           "_name": "content4",
